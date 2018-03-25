@@ -1,12 +1,12 @@
-# Read Me
+# Logo
 
-This is the club logo as well as resources used to make it.
+This contains the current and past versions of the club logo and other assets. Below are some useful resources for making assets.
 
 ## Resources
 
-- [Punched out Text](http://wiki.inkscape.org/wiki/index.php/Tricks_and_tips)
-- [Thicken Text](https://www.youtube.com/watch?v=BVlHDvIKerM)
-- [Linux Code](https://github.com/torvalds/linux/blob/master/kernel/kallsyms.c)
-- [Git Code](https://github.com/git/git/blob/master/color.c)
-- [Clean Up](https://www.youtube.com/watch?v=TUj8_1LYJ9I)
 - [Inkscape](https://inkscape.org/en/)
+- [GIMP](https://www.gimp.org/)
+
+## License
+
+This project is licensed under the CC-BY-SA-4.0 License - see the [LICENSE.md](LICENSE.md) file for details.
